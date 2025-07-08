@@ -62,7 +62,9 @@
 --on c.id = o.customer_id
 --where o.customer_id is not null
 
-
+--select *
+--from customers
+--cross join orders
 
 
 
